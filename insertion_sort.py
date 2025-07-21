@@ -16,3 +16,4 @@ steps = insertion_sort(arr.copy())
 print("Insertion Sort Steps:")
 for i, step in enumerate(steps):
     print(f"Step {i+1}: {step}")
+
